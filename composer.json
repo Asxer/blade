@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/blade",
+    "name": "asxer/blade",
     "description": "The standalone version of Laravel's Blade templating engine for use outside of Laravel.",
     "keywords": ["laravel", "blade", "template", "view", "render"],
     "license" : "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=8.0",
         "illuminate/view": "^5.5|^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
